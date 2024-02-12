@@ -6,5 +6,6 @@ This single-page application (SPA) leverages Progressive Web App (PWA) features 
 ## Screenshot
 ![image](https://github.com/CodyCCL/Simpletext-editor19/assets/142187489/655becb4-596f-481a-ada9-e373fc451cb2)
 
-## Link
+## Heroku and Github link
 https://pure-savannah-74795-e0e98c529831.herokuapp.com/
+https://codyccl.github.io/Simpletext-editor19/
